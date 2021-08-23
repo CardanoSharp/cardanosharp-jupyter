@@ -1,0 +1,5 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "ms-dotnettools.dotnet-interactive-vscode"
+    }
+}
